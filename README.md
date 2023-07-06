@@ -1,10 +1,10 @@
-# Dashboards Financeiros - KitandasZé
+# Dashboards Financeiros
 
-Dashboard Financeiro de Faturamento e custos - KitandasZé
+* Dashboard Financeiro de Faturamento e custos - KitandasZé
 
 ![image](https://github.com/JorgeFerreira09/Dashboard-Financeiro/assets/106722825/4ddf2601-e2c3-4b46-ace8-2d117e293d73)
 
-# Dashboard Financeiro - Power BI
+* Dashboard Financeiro - Power BI
 
 Desafio:
 Uma empresa de equipamentos eletrônicos estava com dificuldade para visualizar uma planilha de excel com muitos dados e varáveis. 
