@@ -1,14 +1,3 @@
-## **Dashboard Financeiro de Faturamento e custos - KitandasZé**
-
-O Cliente José da Silva tem um comércio local chamado KitandasZé, seu controle financeiro é registrado por meio do google planilhas. 
-Ele informou que estava com algumas dificuldades de visualização visando tomada de decisão mais assertivas: 
-
-- Qual é a origem de seu lucro e suas principais despesas?
-- Qual mês teve maior faturamento em relação a seus custos?
-- Qual é a representatividade dos custos sobre os custos totais?   
-
-
-![image](https://github.com/JorgeFerreira09/Dashboard-Financeiro/assets/106722825/4ddf2601-e2c3-4b46-ace8-2d117e293d73)
 
 ## **Dashboard Financeiro - Power BI**
 
@@ -21,3 +10,15 @@ Algumas perguntas precisavam ser respondidas:
 - Qual é o total vendido por região, cidade, vendedor e gerente? 
    
 ![Dashboard Financeiro](https://github.com/JorgeFerreira09/Dashboard-Financeiro/assets/106722825/4cdae3ce-8a76-431c-b272-9397fc991cb1)
+
+## **Dashboard Financeiro de Faturamento e custos - KitandasZé**
+
+O Cliente José da Silva tem um comércio local chamado KitandasZé, seu controle financeiro é registrado por meio do google planilhas. 
+Ele informou que estava com algumas dificuldades de visualização visando tomada de decisão mais assertivas: 
+
+- Qual é a origem de seu lucro e suas principais despesas?
+- Qual mês teve maior faturamento em relação a seus custos?
+- Qual é a representatividade dos custos sobre os custos totais?   
+
+![image](https://github.com/JorgeFerreira09/Dashboard-Financeiro/assets/106722825/4ddf2601-e2c3-4b46-ace8-2d117e293d73)
+
