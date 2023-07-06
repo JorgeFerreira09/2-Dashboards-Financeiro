@@ -1,7 +1,12 @@
 ## **Dashboard Financeiro de Faturamento e custos - KitandasZé**
 
 O Cliente José da Silva tem um comércio local chamado KitandasZé, seu controle financeiro é registrado por meio do google planilhas. 
-Ele informou que estava passando por dificuldade na visualização da origem de suas principais despesas e lucros.   
+Ele informou que estava com algumas dificuldades: 
+
+- Visualização da origem de seu lucro e suas principais despesas.
+- Qual mês teve maior faturamento em relação a suas despesas?   
+
+
 
 ![image](https://github.com/JorgeFerreira09/Dashboard-Financeiro/assets/106722825/4ddf2601-e2c3-4b46-ace8-2d117e293d73)
 
