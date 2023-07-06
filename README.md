@@ -6,8 +6,11 @@
 
 * Dashboard Financeiro - Power BI
 
-Desafio:
-Uma empresa de equipamentos eletrônicos estava com dificuldade para visualizar uma planilha de excel com muitos dados e varáveis. 
+O controle de vendas de uma empresa de equipamentos eletrônicos é feito por meio de uma planinha no excel. 
+Os tomadores de decisão estava com dificuldade de tirar insights devido a grande quantidade de dados e variáveis. Algumas perguntas precisavam ser respondidas:
 
-
+- Qual é o total vendido em valor monetário e em quantidade?
+- Qual é o valor total vendido por mês?
+- Qual é o total vendido por região, cidade, vendedor e gerente? 
+   
 ![Dashboard Financeiro](https://github.com/JorgeFerreira09/Dashboard-Financeiro/assets/106722825/4cdae3ce-8a76-431c-b272-9397fc991cb1)
