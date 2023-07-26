@@ -8,7 +8,11 @@ Algumas perguntas precisavam ser respondidas:
 - Qual é o total vendido em valor monetário e em quantidade?
 - Qual é o valor total vendido por mês?
 - Qual é o total vendido por região, cidade, vendedor e gerente? 
+
+Captura Etática:
+![dashboard-financeiro](https://github.com/JorgeFerreira09/2-Dashboards-Financeiro/assets/106722825/0b60f9f7-2600-4b9a-8dea-e58e00dc3947)
    
+Veja esse dashboard em movimento:<br>
 https://www.youtube.com/watch?v=LvChXnmbuR4&ab_channel=JorgeFerreira
 
 ## **Dashboard Financeiro de Faturamento e custos - KitandasZé**
