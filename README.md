@@ -9,7 +9,7 @@ Algumas perguntas precisavam ser respondidas:
 - Qual é o valor total vendido por mês?
 - Qual é o total vendido por região, cidade, vendedor e gerente? 
    
-![Dashboard Financeiro](https://github.com/JorgeFerreira09/Dashboard-Financeiro/assets/106722825/4cdae3ce-8a76-431c-b272-9397fc991cb1)
+https://www.youtube.com/watch?v=LvChXnmbuR4&ab_channel=JorgeFerreira
 
 ## **Dashboard Financeiro de Faturamento e custos - KitandasZé**
 
